@@ -1,0 +1,12 @@
+Graphs:
+
+1 cortex of a human NAN
+2 cortex of a random animal 92.8
+3 cluster thingie 93
+4 baseline 93
+5 battle formation 89
+6 sweet spot graphs 90.8
+7 cobweb 86.45
+8 grid 10
+9 sacred geometry 79.8
+10 tree NAN

@@ -1,0 +1,6 @@
+{"nodes":[{"bias":0.025783711959815492,"type":"input","squash":"LOGISTIC","mask":1,"index":0},{"bias":-0.06461924650244852,"type":"hidden","squash":"LOGISTIC","mask":1,"index":1},{"bias":0.01633496513886165,"type":"hidden","squash":"LOGISTIC","mask":1,"index":2},{"bias":0.0302307559119927,"type":"hidden","squash":"LOGISTIC","mask":1,"index":3},{"bias":0.07903083402819591,"type":"hidden","squash":"LOGISTIC","mask":1,"index":4},{"bias":-0.07996997637109673,"type":"output","squash":"LOGISTIC","mask":1,"index":5}],
+
+
+"connections":[{"weight":-0.045283389123185414,"from":0,"to":1,"gater":null},{"weight":-0.06461329463244381,"from":0,"to":2,"gater":null},{"weight":0.06838356443808721,"from":1,"to":3,"gater":null},{"weight":-0.06443876929858638,"from":1,"to":4,"gater":null},{"weight":0.048111659994945294,"from":2,"to":3,"gater":null},{"weight":0.03845758746904099,"from":2,"to":4,"gater":null},{"weight":0.09166794696909136,"from":3,"to":5,"gater":null},{"weight":-0.005707893867148123,"from":4,"to":5,"gater":null}],
+
+"input":1,"output":1,"dropout":0}
